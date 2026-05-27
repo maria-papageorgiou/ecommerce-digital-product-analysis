@@ -29,3 +29,12 @@ The analysis focuses on how digital branding, market research, and user behavior
 
 ## Project Status
 Ongoing academic and practical portfolio project.
+
+## Project Preview
+
+### Linked Project
+[View Etsy Shop](https://calmsagestudio.etsy.com)
+
+### Preview Image
+![Project Preview](<img width="2000" height="1500" alt="main picture (2)" src="https://github.com/user-attachments/assets/94fe0f26-2125-4438-b64f-19600234ed82" />
+)
